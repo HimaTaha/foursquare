@@ -11,7 +11,7 @@ make sure to have internet connection working
 
 #### Used libraries
 1. i used MapBox library for lodaing the map and getting information for each location .
-2. using https://www.pokeapi.co to get image of selected pokemon
+2. using https://foursquare.com to get image of selected place
 3. i used (jQuery, bootstrap ) to hande request and styles of the page 
 No other external libraries were used 
 ##### Project Rubric
